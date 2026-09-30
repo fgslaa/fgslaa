@@ -3,6 +3,11 @@
 </div>
 
 ### About me :
+
+I am a third‑year student majoring in "Applied Mathematics and Computer Science";
+
+I’m interested in Data Science and ML;
+
 :(
 
 ### Languages and Tools :

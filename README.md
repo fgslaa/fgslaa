@@ -8,7 +8,6 @@ I am a third‑year student majoring in "Applied Mathematics and Computer Scienc
 
 I’m interested in Data Science and ML;
 
-:(
 
 ### Languages and Tools :
 
